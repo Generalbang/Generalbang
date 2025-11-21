@@ -21,18 +21,18 @@
 - **NewsLet** - Full-stack MERN application with authentication & RBAC
 - **Multi-Tenant Billing System** - Node.js backend with Kill Bill integration
 
-
+##
 
 - 🌱 Currently exploring: **Next.js, React Native, and DevOps**
-
+##
 - 👨‍💻 All of my projects are available at [https://codrrex.netlify.app/](https://codrrex.netlify.app/)
-
+##
 - 💬 Ask me about **React, Express, Tailwind CSS**
-
+##
 - 📫 How to reach me **js.dev.ojodare@gmail.com**
-
+##
 - ⚡ Fun fact: **I debug faster with good music**
-
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0x_codrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_codrex" height="30" width="40" /></a>
