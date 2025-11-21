@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <codrex/></h1>
+<h1 align="center">Hi 👋, I'm codrex</h1>
 <h3 align="center">Full-Stack Developer building modern web applications with React, TypeScript, Node.js, and Django.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=generalbang&label=Profile%20views&color=0e75b6&style=flat" alt="generalbang" /> </p>
