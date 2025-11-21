@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm codrex</h1>
+<h1 align="center">Hi 👋, Am codrex</h1>
 <h3 align="center">Full-Stack Developer building modern web applications with React, TypeScript, Node.js, and Django.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=generalbang&label=Profile%20views&color=0e75b6&style=flat" alt="generalbang" /> </p>
@@ -9,13 +9,21 @@
 
 - 🔭 I’m currently building on **Naijanest**
   
-- ## 🔭 What I'm Working On
+## 🔭 What I'm Working On
 
 - Building secure, scalable web applications
 - Improving my TypeScript and system design skills
 - Contributing to open source when I can
 
-- 🌱 I’m currently learning **Nextjs, ReactNative and devops**
+## 💼 Recent Projects
+- **African Genius Academy** - School website with React & TypeScript
+- **Visibuy eCommerce** - Shopping platform with Redux state management
+- **NewsLet** - Full-stack MERN application with authentication & RBAC
+- **Multi-Tenant Billing System** - Node.js backend with Kill Bill integration
+
+
+
+- 🌱 Currently exploring: **Next.js, React Native, and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://codrrex.netlify.app/](https://codrrex.netlify.app/)
 
@@ -23,7 +31,7 @@
 
 - 📫 How to reach me **js.dev.ojodare@gmail.com**
 
-- ⚡ Fun fact **Am actively looking for a Job**
+- ⚡ Fun fact: **I debug faster with good music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
